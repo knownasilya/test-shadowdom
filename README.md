@@ -1,7 +1,10 @@
 # test-shadowdom
 
-This is an example at what's currently possible with v1 web components.
-Since `::shadow` and `/deep/` have been deprecated, the future alternative
+This is an example at what's currently possible with v0 web components.
+
+## Future 
+
+Since `::shadow` and `/deep/` have been deprecated, the future (v1) alternative
 is something like:
 
 In the web component:
@@ -41,3 +44,7 @@ shiny-button.fancy {
 
 Check out this nice writeup http://meowni.ca/posts/styling-the-dome/ by [@notwaldorf](https://twitter.com/notwaldorf)
 from which I copied the examples.
+
+## Good links
+
+- https://developers.google.com/web/fundamentals/primers/customelements/
