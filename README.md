@@ -48,3 +48,4 @@ from which I copied the examples.
 ## Good links
 
 - https://developers.google.com/web/fundamentals/primers/customelements/
+- https://docs.google.com/presentation/d/179IRXRFmDGb3P60OVsoAIsElcaOp__5EuIWLcL8oNos/edit#slide=id.p
